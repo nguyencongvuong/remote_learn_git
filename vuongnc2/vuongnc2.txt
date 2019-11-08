@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 vuongnc2
-=======
 day la branch vuong
->>>>>>> modifie vuongnc
